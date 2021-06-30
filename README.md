@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Infinispan, specifically developing features such as the Infinispan Console, or the integration with Quarkus, Spring-Boot and Vert.x.
+- 📫 Follow me on @karesti on twitter
+
 <!--
 **karesti/karesti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
