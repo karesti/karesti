@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Infinispan, specifically developing features such as the Infinispan Console, or the integration with Quarkus, Spring-Boot and Vert.x.
+- 🔭 I’m currently working on Infinispan, specifically developing features such as the Infinispan Console, REST API or the integration with Quarkus, Spring-Boot and Vert.x.
+- Linkedin Spanish Quarkus teacher: Quarkus Esencial https://www.linkedin.com/learning/quarkus-esencial
 - 📫 Follow me on @karesti on twitter
 
 <!--
